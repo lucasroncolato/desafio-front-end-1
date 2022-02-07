@@ -71,6 +71,17 @@ Faça o download do arquivo [clique aqui para baixar](https://www.dropbox.com/sh
 
 Crie um fork e submeta ao Github o seu desafio. Após isso envie um e-mail para letsrock@owinteractive.com, com o assunto [DESAFIO FRONT-END] com o link para o seu desafio. Obrigado por participar e boa sorte =)
 
+## Project setup
+```
+npm install
+```
 
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-
+### Compiles and minifies for production
+```
+npm run build
+```
